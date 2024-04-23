@@ -1,0 +1,7 @@
+Admin Credentials:
+U = Administrator
+P = @dm1N15tr4t0r
+
+Employee Credentials:
+U = Renzearl
+P = Arcibal
